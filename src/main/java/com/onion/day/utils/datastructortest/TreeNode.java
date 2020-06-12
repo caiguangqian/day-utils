@@ -10,7 +10,8 @@ import java.text.SimpleDateFormat;
  * @version v1.0.0
  * @Title:
  * @Package
- * @Description: (用一句话描述该文件做什么)
+ * @Description: 时间格式转换
+ *
  * @date 2020/6/7 17:26
  **/
 public class TreeNode {
